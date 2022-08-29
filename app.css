@@ -1937,7 +1937,8 @@ progress {
   }
 }
 .form-control:hover:not(:disabled):not([readonly])::file-selector-button {
-  background-color: #dde0e3;
+  background-color: #06f;
+  color: white;
 }
 .form-control::-webkit-file-upload-button {
   padding: 0.25rem 0.7rem;
